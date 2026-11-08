@@ -1,4 +1,4 @@
 # Er.sameer-demo
 This is my first repository.
 <br>
-author - Sameer pasha
+author - Sameer (Mohd Sameer)
